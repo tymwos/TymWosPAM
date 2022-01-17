@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_background"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="20dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="10dp"
+        android:background="#90000000" >
+        <Button
+            android:id="@+id/myMountainsButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/myMountainsButton_text"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:textColor="@color/black"
+            app:backgroundTint="@color/white"
+            android:background="#99999999" />
+        <Button
+            android:id="@+id/addMountainButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/addMountainButton_text"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:textColor="@color/black"
+            app:backgroundTint="@color/white"
+            android:background="#99999999" />
+        <Button
+            android:id="@+id/koronaButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/koronaButton_text"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:textColor="@color/black"
+            app:backgroundTint="@color/white"
+            android:background="#99999999" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

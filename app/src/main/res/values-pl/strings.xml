@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moje Góry App</string>
+    <string name="myMountainsButton_text">moje góry</string>
+    <string name="addMountainButton_text">dodaj górę</string>
+    <string name="koronaButton_text">Korona Gór Polski</string>
+    <string name="notImplementInfo">Niezaimplementowana metoda</string>
+    <string name="mountName">Name</string>
+    <string name="mountHeight">Wyskość</string>
+    <string name="mountHeightDef">2499</string>
+    <string name="mountCountry">Państwo</string>
+    <string name="mountCountryDef">Polska</string>
+    <string name="add">Dodaj</string>
+    <string name="delete">Usuń</string>
+    <string name="mountNameDef">Rysy</string>
+    <string name="underConstruction">Aplikacja w budowie...</string>
+</resources>

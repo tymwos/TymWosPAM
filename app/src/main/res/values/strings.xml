@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Mountains App</string>
+    <string name="myMountainsButton_text">my mountains</string>
+    <string name="addMountainButton_text">add mountain</string>
+    <string name="koronaButton_text">Crown of Polish Mountains</string>
+    <string name="notImplementInfo">Not implemented method!</string>
+    <string name="mountName">Name</string>
+    <string name="mountNameDef">Rysy</string>
+    <string name="mountHeight">Height</string>
+    <string name="mountHeightDef">2499</string>
+    <string name="mountCountry">Country</string>
+    <string name="mountCountryDef">Poland</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="underConstruction">Application under construction...</string>
+</resources>
